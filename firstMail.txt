@@ -1,3 +1,4 @@
+// Lennart to Anna
 Hi Ana,
 
 looking forward to meet you tomorrow. Unfortunately I just caught a nice cold
@@ -29,3 +30,81 @@ Alright, this should be enough text :).
 
 All the best,
 Lennart
+
+
+// Anna to Lennart
+// My corrections are intended by >> and done line-by-line.
+// Annotations: Your email was informal, student-like and therefore many
+// "usual" email conventions are not important in this case.
+
+// I've written a more 'formal version' of the Email you could write in
+// Germany to someone you don't know and who is not a student, but maybe a
+// future collegue.
+
+Hallo Lennart!
+
+Ja ich freue mich auch darauf!  Oh nein das ist nicht gut! Ich hoffe, dass du
+  >> Ja, ich freue mich auch darauf!  Oh nein, das ist nicht gut! Ich hoffe, dass du
+dich bald besser fühlen :)
+  >> dich bald besser fühlst :)
+
+Ein bisschen über mir: Ich studiere Mathe mit einem bisschen Deutsch hier in
+  >> Ein bisschen über mich: Ich studiere Mathe und auch ein wenig Deutsch hier in
+Birmingham also ist das ziemlich ähnlich zu Physik. Dieses Jahr ist mein
+  >> Birmingham, daher ist das ziemlich ähnlich zu Physik. Dieses Jahr ist mein
+zweiten Jahr an der Universität und nächstes Jahr werde ich in Deutschland das
+  >> zweites Jahr an der Universität und nächstes Jahr werde ich in Deutschland das
+ganzen Jahr studieren. Ich habe Angst darauf aber auf einer positive Weise,
+  >> ganze Jahr studieren. Auf eine positive Weise habe ich etwas Angst davor, denke ich.
+
+Ich interessiere mich an Musik besonders Hip Hop wie zum Beispiel Kanye West
+  >> An Musik interessiert mich besonders Hip Hop wie zum Beispiel Kanye West.
+alle Musik finde ich toll. Ich habe einen Mini Job in Nando's, der ich liebe,
+  >> Alle musikalischen Genres finde ich toll. Ich habe einen Mini Job in Nando's, den ich liebe,
+und ich geniesse Zeit mit meinen Mitbewohner und Freunden verbringen.
+  >> und ich geniesse es Zeit mit meinen Mitbewohner und Freunden zu verbringen.
+
+Ich komme aus einer Stadt, die Nottingham heißt, aber ich liebe, in Birmingham
+  >> Ich komme aus einer Stadt die Nottingham heißt, aber ich liebe es in Birmingham
+zu leben. Ich habe Berlin ein paar Mal and Köln auch besucht und ich habe
+  >> zu leben. Ich habe ein paar Mal Berlin und auch Köln besucht und ich habe
+diese Städte geliebt :)
+
+Ich möchte gern dieses Jahr meine Deutsch verbessern und ich freue mich
+  >> Ich möchte dieses Jahr gerne mein Deutsch verbessern und ich freue mich
+darauf, mit dir Englisch auch zu sprechen.
+  >> auch darauf mit dir Englisch zu sprechen.
+
+Bis morgen!
+
+Anna
+
+// A slightly more formal version, but most of it is personal taste/style
+// assuming you are using Du in an informal context
+// Not having a proper german keyboard, using ae instead of ä etc.
+
+Hallo Lennart,
+
+ich freue mich auch auf unser Treffen. Gute Besserung bezueglich der
+Erkaeltung, ich hoffe dass es dir bald wieder besser geht!
+
+Ein wenig ueber meine Person: Hier in Birmingham studiere ich Mathematik, das
+relativ aehnlich zu Physik ist, lerne allerdings auch etwas Deutsch. Dieses
+Jahr ist mein zweites Jahr an der Universitaet und naechstes Jahr werde ich
+als Austauschstudentin in Deutschland verbringen. Davor habe ich zwar Angst,
+bin aber auf eine positive Weise gespannt was mich erwarten wird.
+
+An Musik interessiert mich besonders HipHop wie zum Beispiel Kayne West, aber
+generell hoere ich auch viele andere Genres sehr gerne. Um mein Studium zu
+finanzieren habe ich einen tollen Nebenjob im Nando's und verbringe davon
+abgesehen gerne Zeit mit meinen Mitbewohnern und Freunden.
+
+Ich komme aus Nottingham, habe aber Birmingham sehr ins Herz geschlossen. In
+Deutschland konnte ich bereits ein paar Mal Berlin und auch Koeln besuchen und
+war begeistert von beiden Staedten.
+
+Dieses Jahr moechte ich nutzen um mein Deutsch zu verbessern aber ich freue
+mich auch darauf mit dir Englisch zu sprechen.
+
+Bis morgen!
+Anna
